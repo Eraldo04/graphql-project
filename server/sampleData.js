@@ -26,19 +26,19 @@ const projects = [
 
 const clients = [
     {
-        id: 1,
+        id: '1',
         name: 'Eraldo Kanani',
         email: 'ekanani@gmail.com',
         phone: '68-55-67-855',
     },
     {
-        id: 2,
+        id: '2',
         name: 'Mart Gjepali',
         email: 'mgjepali@gmail.com',
         phone: '69-45-69-851',
     },
     {
-        id: 3,
+        id: '3',
         name: 'Donald Zhuku',
         email: 'dzhuku@gmail.com',
         phone: '66-48-69-341',
